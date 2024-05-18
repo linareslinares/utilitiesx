@@ -1,0 +1,46 @@
+#Plugin FREE By LinaresFunado
+
+# Muestra el nombre del servidor en la lista de servidores
+server-name-list: true
+server-name: "§l§uYourServerName"
+
+# Establece el mapa Hub
+Lobby-name: []
+
+# Se fija un item usable al entrar al servidor
+show-item: true
+item-name: "§l§uUTILS-X"
+
+# Muestra un titulo al entrar un jugador
+show-title: true
+Welcome-Title: "Bienvenido"
+
+# Reproduce sonido al entrar un jugador
+sound-join: true
+
+# Rellena la salud y hambre del jugador
+health-refil: true
+food-refil: true
+
+# Alerta en el chat cuando entra un staff
+staff-alert: true
+
+# Limpiar inventario al salir\entrar al servidor
+clear-inv: true
+
+# Lista de mapas permitidos para usar los cosmeticos y abrir el menu (se agregan automaticamente al usar /sethub set <mapName>)
+# example
+# allow-cosmetics:
+# - Map1
+# - Map2
+# - Map3
+allow-cosmetics: []
+
+CPS:
+  Mostrar: true
+  Mensaje: "§8[§cUTILS§7-§cX§8] §e{player} llego a §8[§c{cps}§8] §eCPS§e @here"
+  Alertas: 20
+
+#permissions example: "Youtube.cape", "Mario v1.cape", "Flowers Rose.cape"
+#Agrega nuevas capas compatibles solo subiendo el PNG y agregando el nombre de la capa ABAJO.
+list_capes: ["Turtle","Firework", "Orange", "Fcito", "Discord", "Youtube", "MiniYT", "Navidad", "Mario v1", "Flowers Rose", "Flowers Cian"]
