@@ -4,11 +4,10 @@ Plugin con opciones básicas para nuestro servidor de PocketMine.
 Como por ejemplo un /fly, /gm, /hub entre más!
 
 # Commands
-commands:
+
     fly:
       permission: "fly.cmd"
       use: "/fly on off"
-
     ping:
       permission: "ping.cmd"
       use: "/ping"
@@ -29,7 +28,7 @@ commands:
       permission: "set.hub"
       use: "/sethub set <map>"
 # Permissions
-permissions:
+
     cps.staff:
       default: op
     join.staff:
