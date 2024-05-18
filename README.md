@@ -22,7 +22,7 @@ Como por ejemplo un /fly, /gm, /hub entre más!
 
     utils:
       permission: "utils.cmd"
-      use: "/showutils"
+      use: "/utils"
 
     sethub:
       permission: "set.hub"
