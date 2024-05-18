@@ -1,7 +1,7 @@
 # UTILITIES-X
 
 Plugin con opciones básicas para nuestro servidor de PocketMine.
-Como por ejemplo un /fly, /gm, /hub entre más!
+Como por ejemplo un contador de CPS, Cosmeticos y comandos útiles como: /fly, /gm, /hub entre más!
 
 # Commands
 
